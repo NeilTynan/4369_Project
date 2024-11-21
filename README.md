@@ -19,7 +19,7 @@ This repository may be of some interest to other students engaged in similar pro
 The workbook is structured in a linear fashion, so reading through it from start to finish is the best approach.
 
 To understand how the workbook has developped to date, please see below a timeline of the work done on the notebook and the material referenced in the course of this work:
- 13/10/2024 - Created ReadMe and Gitignore file, mirroring the structure of 4369_assignments. Gitignore file generated using the template at Python gitignore template at https://github.com/github/gitignore/blob/main/Python.gitignore, the Windows gitignore template at https://github.com/github/gitignore/blob/main/Global/Windows.gitignore, the MacOS gitignore template at https://github.com/github/gitignore/blob/main/Global/macOS.gitignore and the Linux gitignore template at https://github.com/github/gitignore/blob/main/Global/Linux.gitignore.
+ 13/10/2024 - Created ReadMe and Gitignore file, mirroring the structure of 4369_assignments. Gitignore file generated using the template at Python gitignore template at https://github.com/github/gitignore/blob/main/Python.gitignore, the Windows gitignore template at https://github.com/github/gitignore/blob/main/Global/Windows.gitignore, the MacOS gitignore template at https://github.com/github/gitignore/blob/main/Global/macOS.gitignore and the Linux gitignore template at https://github.com/github/gitignore/blob/main/Global/Linux.gitignore. Created "project.ipynb" notebook and started work on project by looking at SFI data on ORCiD adoption amoung grant holders.
 
 ## Getting help
 
