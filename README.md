@@ -6,6 +6,10 @@ This README has been written with [GitHub's documentation on README's] (https://
 
 This repository contains my project for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. The repository for the weekly assignments for 4369 can be found here: https://github.com/NeilTynan/4369_assignments 
 
+Read in a number of datasets
+Analyze the data using various techniques
+Illustrate your findings
+
 ## Use of this Project
 
 This repository may be of some interest to other students engaged in similar projects around programming for data analytics. Feel free to use whatever you like from it (though if another party has been referenced, I would ask that you likewise cite them).
