@@ -1,6 +1,6 @@
 # Programming for Data Analytics - Project
 
-This README has been written with [GitHub's documentation on README's] (https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
+This README has been written with [GitHub's documentation on README's](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) in mind.
 
 ## About this Project
 
