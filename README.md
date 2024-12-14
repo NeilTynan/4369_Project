@@ -4,11 +4,14 @@ This README has been written with [GitHub's documentation on README's](https://d
 
 ## About this Project
 
-This repository contains my project for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. The repository for the weekly assignments for 4369 can be found here: https://github.com/NeilTynan/4369_assignments 
+This repository contains my project for ATU module 4369 -- PROGRAMMING FOR DATA ANALYTICS. As part of this project, we are expected to come up with a question to examine. Then we are expected to:
+- Read in a number of datasets related to the subject matter
+- Analyze the data using various techniques 
+- Illustrate your findings
 
-Read in a number of datasets
-Analyze the data using various techniques
-Illustrate your findings
+The other repositiories for this course can be found at:
+- Assignment folder: https://github.com/NeilTynan/PFDA-assignments
+- Course Work folder: https://github.com/NeilTynan/PFDA-mywork
 
 ## Use of this Project
 
@@ -19,7 +22,7 @@ This repository may be of some interest to other students engaged in similar pro
 The workbook is structured in a linear fashion, so reading through it from start to finish is the best approach.
 
 To understand how the workbook has developped to date, please see below a timeline of the work done on the notebook and the material referenced in the course of this work:
- 13/10/2024 - Created ReadMe and Gitignore file, mirroring the structure of 4369_assignments. Gitignore file generated using the template at Python gitignore template at https://github.com/github/gitignore/blob/main/Python.gitignore, the Windows gitignore template at https://github.com/github/gitignore/blob/main/Global/Windows.gitignore, the MacOS gitignore template at https://github.com/github/gitignore/blob/main/Global/macOS.gitignore and the Linux gitignore template at https://github.com/github/gitignore/blob/main/Global/Linux.gitignore. Created "project.ipynb" notebook and started work on project by looking at SFI data on ORCiD adoption amoung grant holders.
+- 21/11/2024 - Created ReadMe and Gitignore file, mirroring the structure of 4369_assignments. Gitignore file generated using the template at Python gitignore template at https://github.com/github/gitignore/blob/main/Python.gitignore, the Windows gitignore template at https://github.com/github/gitignore/blob/main/Global/Windows.gitignore, the MacOS gitignore template at https://github.com/github/gitignore/blob/main/Global/macOS.gitignore and the Linux gitignore template at https://github.com/github/gitignore/blob/main/Global/Linux.gitignore. Created "project.ipynb" notebook and started work on project by loading in SFI files on ORCiD adoption amoung grant holders and begining to chart the data. 
 
 ## Getting help
 
@@ -27,7 +30,7 @@ Queries about this repository can be directed directly to my GitHub account (Nei
 
 ## Other References
 
-
+[Python for Data Analytics, 3E](https://wesmckinney.com/book/) - Chapter 9 was regularily refereced in the production of the charts used in this project.
 
 ## Author
 
