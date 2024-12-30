@@ -40,6 +40,7 @@ Queries about this repository can be directed directly to my GitHub account (Nei
 [Python for Data Analytics, 3E](https://wesmckinney.com/book/) - Chapter 9 was regularily refereced in the production of the charts used in this project.
 https://info.orcid.org/what-is-orcid/services/public-api/
 https://aeturrell.github.io/coding-for-economists/data-extraction.html
+https://www.delftstack.com/howto/matplotlib/add-trendline-in-python-matplotlib/ bar chart
 
 ## Author
 
