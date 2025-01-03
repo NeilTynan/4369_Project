@@ -9,12 +9,6 @@ This repository contains my project for ATU module 4369 -- PROGRAMMING FOR DATA 
 - Analyze the data using various techniques 
 - Illustrate your findings
 
-Additional points are available for:
-- Increasing the range of data being analysed
-- Using Skitlearn or other packages
-- Increasing complexity of plots without reducing readability
-- Using a database
-
 The other repositiories for this course can be found at:
 - Assignment folder: https://github.com/NeilTynan/PFDA-assignments
 - Course Work folder: https://github.com/NeilTynan/PFDA-mywork
