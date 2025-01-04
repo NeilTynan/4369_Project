@@ -13,6 +13,9 @@ The other repositiories for this course can be found at:
 - Assignment folder: https://github.com/NeilTynan/PFDA-assignments
 - Course Work folder: https://github.com/NeilTynan/PFDA-mywork
 
+
+The time frame for review has been set to 2001-2022. This is to account for the fact that the SFI data starts in 2001 while there is the OECD data terminates in 2022.
+
 ## Use of this Project
 
 This repository may be of some interest to other students engaged in similar projects around programming for data analytics. Feel free to use whatever you like from it (though if another party has been referenced, I would ask that you likewise cite them).
@@ -23,7 +26,10 @@ The workbook is structured in a linear fashion, so reading through it from start
 
 To understand how the workbook has developped to date, please see below a timeline of the work done on the notebook and the material referenced in the course of this work:
 - 21/11/2024 - Created ReadMe and Gitignore file, mirroring the structure of 4369_assignments. Gitignore file generated using the template at Python gitignore template at https://github.com/github/gitignore/blob/main/Python.gitignore, the Windows gitignore template at https://github.com/github/gitignore/blob/main/Global/Windows.gitignore, the MacOS gitignore template at https://github.com/github/gitignore/blob/main/Global/macOS.gitignore and the Linux gitignore template at https://github.com/github/gitignore/blob/main/Global/Linux.gitignore. Created "project.ipynb" notebook and started work on project by loading in SFI files on ORCiD adoption amoung grant holders and begining to chart the data.
-- 23/12/2024 - Added in Date ranges to SFI data analysis, as per course material "TPFDA6.2 manipulating timeseries". Added legend to SFI line chart. External material referenced include: https://stackoverflow.com/questions/11983024/matplotlib-legends-not-working (adding a legend to STR charts), https://matplotlib.org/stable/api/markers_api.html (Matplotlib marker functions)
+- 23/12/2024 - Added in Date ranges to SFI data analysis, as per course material "TPFDA6.2 manipulating timeseries". Added legend to SFI line chart. External material referenced include: https://stackoverflow.com/questions/11983024/matplotlib-legends-not-working (adding a legend to STR charts), https://matplotlib.org/stable/api/markers_api.html (Matplotlib marker functions). Started work on loading in the OECD API.
+- 30/12/2024 - Completed work on loading in the OECD data. Started work on processing the OECD data and generating charts on the data related to Irish researchers.
+- 03/01/2025 - Completed work on OECD data/charts. Started to work on merging the two datasets for analysis.
+- 04/01/2025 - Finished merging data sources. All charts completed.
 
 ## Getting help
 
