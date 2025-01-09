@@ -27,7 +27,7 @@ The workbook is structured in a linear fashion, so reading through it from start
 To understand how the workbook has developped to date, please see below a timeline of the work done on the notebook and the material referenced in the course of this work:
 - 21/11/2024 - Created ReadMe and Gitignore file, mirroring the structure of 4369_assignments. Gitignore file generated using the template at Python gitignore template at https://github.com/github/gitignore/blob/main/Python.gitignore, the Windows gitignore template at https://github.com/github/gitignore/blob/main/Global/Windows.gitignore, the MacOS gitignore template at https://github.com/github/gitignore/blob/main/Global/macOS.gitignore and the Linux gitignore template at https://github.com/github/gitignore/blob/main/Global/Linux.gitignore. Created "project.ipynb" notebook and started work on project by loading in SFI files on ORCiD adoption amoung grant holders and begining to chart the data.
 - 23/12/2024 - Added in Date ranges to SFI data analysis, as per course material "TPFDA6.2 manipulating timeseries". Added legend to SFI line chart. External material referenced include: https://stackoverflow.com/questions/11983024/matplotlib-legends-not-working (adding a legend to STR charts), https://matplotlib.org/stable/api/markers_api.html (Matplotlib marker functions). Started work on loading in the OECD API.
-- 30/12/2024 - Completed work on loading in the OECD data. Started work on processing the OECD data and generating charts on the data related to Irish researchers.
+- 30/12/2024 - OECD data loaded in. Started work on processing the OECD data and generating charts on the data related to Irish researchers.
 - 03/01/2025 - Completed work on OECD data/charts. Started to work on merging the two datasets for analysis.
 - 04/01/2025 - Finished merging data sources. All charts completed.
 
@@ -41,6 +41,8 @@ Queries about this repository can be directed directly to my GitHub account (Nei
 https://info.orcid.org/what-is-orcid/services/public-api/
 https://aeturrell.github.io/coding-for-economists/data-extraction.html
 https://www.delftstack.com/howto/matplotlib/add-trendline-in-python-matplotlib/ bar chart
+https://stackoverflow.com/questions/46658232/pandas-convert-column-with-year-integer-to-datetime datetime issue format y
+https://www.geeksforgeeks.org/how-to-add-one-row-in-an-existing-pandas-dataframe/ add a new row
 
 ## Author
 
