@@ -43,6 +43,8 @@ https://aeturrell.github.io/coding-for-economists/data-extraction.html
 https://www.delftstack.com/howto/matplotlib/add-trendline-in-python-matplotlib/ bar chart
 https://stackoverflow.com/questions/46658232/pandas-convert-column-with-year-integer-to-datetime datetime issue format y
 https://www.geeksforgeeks.org/how-to-add-one-row-in-an-existing-pandas-dataframe/ add a new row
+[Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/) - Referenced in the production of the notebook 
+
 
 ## Author
 
