@@ -13,7 +13,7 @@ The other repositiories for this course can be found at:
 - Assignment folder: https://github.com/NeilTynan/PFDA-assignments
 - Course Work folder: https://github.com/NeilTynan/PFDA-mywork
 
-For my project quesion, I have sought to estimate the number of researchers in Ireland who would be presenting ORCiDs if they obliged to follow SFI's ORCiD policies. The time frame for review has been set to 2001-2023. This is to account for the fact that the SFI data the Organisation for Economic Co-operation and Development (OECD)'s [Main Science and Technology Indicators (MSTI) database and Science Foundation Ireland (SFI)'s Grant Commitment List.
+For my project quesion, I have sought to estimate the number of researchers in Ireland who would be presenting ORCiDs if they obliged to follow SFI's ORCiD policies. The time frame for review has been set to 2001-2023. This is to account for the fact that the SFI data the Organisation for Economic Co-operation and Development (OECD)'s Main Science and Technology Indicators (MSTI) database and Science Foundation Ireland (SFI)'s Grant Commitment List.
 
 ## Use of this Project
 
